@@ -1,4 +1,4 @@
-// Slider class definition for managing a slideshow
+ 
 export class Slider {
 	DOM = {
 		el: null
